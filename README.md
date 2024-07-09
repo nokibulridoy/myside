@@ -1,2 +1,1 @@
-# myside
-My Personal Site
+# atikullah.github.io
