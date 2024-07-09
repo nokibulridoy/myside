@@ -1,6 +1,6 @@
 var data = {
     header_name: 'Md. Nokibul Islam',
-    about_my_self: 'I am from Bangladesh. I am working as a Software Engineer in TMSS ICT Limited. Previously I have completed my Bsc in Software Engiinering from Green University Of Bangladesh. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career.<br>\n',
+    about_my_self: 'Hi, I am working as a Junior Software Engineer at TMSS ICT Limited. Previously I completed my Diploma in Computer Science and Technology from the TMSS Institute of Science and ICT Of Bangladesh,Bogura. I expected to work with an organization where I shall be able to expose myself to every opportunity through a quality and growth-oriented job. The working environment should allow me to understand my own values and provide me with a dynamic & challenging career..<br>\n',
     contact_details : 'I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.',
     banner_button_text: 'More about me',
     about_banner_resume_title: 'Resume',
@@ -47,60 +47,21 @@ var data = {
             technology: 'PHP, Laravel, Javascript, Vue.js, Git',
             projects: 'Microfinance, Education, News, Water supply, Website'
         },
-        {
-            start_date: 'june-2020',
-            end_date: 'August-2021 (Remote)',
-            designation: 'Programmer',
-            company: 'Shopner Bangladesh (Saudi Arabia)',
-            technology: 'PHP, Laravel, Vue.js',
-            projects: 'Training management, Vendor management, Website'
-        },
-        {
-            start_date: 'July-2018 ',
-            end_date: 'February-2019  (Remote)',
-            designation: 'Web Design & Developer',
-            company: '3D-Vision (Saudi Arabia)',
-            technology: 'HTML, CSS, Javascript, PHP, Laravel, Javascript, Vue.js, Git',
-            projects: 'Website, HRM & Inventory, School Management'
-        },
-        {
-            start_date: 'September-2017',
-            end_date: 'April-2018',
-            designation: 'Programmer',
-            company: 'Redsoft Limited',
-            technology: 'HTML, CSS, Javascript, PHP, Laravel, Jquery',
-            projects: 'Bill Management, News, Website, Training management, HRM, Printing press Management, Bulk SMS, POS'
-        },
-        {
-            start_date: 'December-2016',
-            end_date: 'August-2017',
-            designation: 'Web Developer',
-            company: 'Pacific Group',
-            technology: 'PHP, CodeIgniter, Laravel, Wordpress',
-            projects: 'News, HRM, POS'
-        }
     ],
     educations: [
         {
-            name: 'BSC in Computer Science and Engineering (CSE)',
-            year: '2015',
+            name: 'Diploma in Computer Science and Technology  (CST)',
+            year: '2022',
             section: 'CSE',
-            institute: 'Green University of Bangladesh',
-            result: '2.79',
-        },
-        {
-            name: 'Higher Secondary School Certificate (HSC)',
-            year: '2014',
-            section: 'Science',
-            institute: 'Gurudayal Govt College',
-            result: '4.00',
+            institute: 'TMSS Institute of Science and ICT Bogura',
+            result: '3.66',
         },
         {
             name: 'Secondary School Certificate (SSC)',
-            year: '2011',
+            year: '2016',
             section: 'Science',
-            institute: 'Hatra Para High School',
-            result: '4.13'
+            institute: 'Shahebgonj High School',
+            result: '3.72'
         },
     ],
     trainings: [
@@ -113,17 +74,10 @@ var data = {
         },
         {
             name: 'Web Design',
-            year: '2016',
-            institute: 'Creative It Institute',
+            year: '2020',
+            institute: 'TMSS Institute of Science and ICT Bogura',
             duration: '4 month',
             program: 'HTML, CSS, Bootstrap, Javascript',
-        },
-        {
-            name: 'Web Design',
-            year: '2015',
-            institute: 'IIT-University of Dhaka',
-            duration: '4 month',
-            program: 'HTML, CSS, Bootstrap',
         },
     ],
     projects: [
